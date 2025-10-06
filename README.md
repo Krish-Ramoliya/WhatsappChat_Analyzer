@@ -90,7 +90,7 @@ See `requirements.txt` for the full list. Key packages:
 
 ## 🙏 Credits
 
-Developed by [Your Name].  
+Developed by [Krish Ramoliya].  
 Inspired by the need for better chat insights!
 
 ---
